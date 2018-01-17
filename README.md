@@ -2,3 +2,4 @@
 
 - zhihu.com
 - juejin.im
+- jianshu.com
